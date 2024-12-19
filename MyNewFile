@@ -4,8 +4,9 @@
     <title>Ma page Git</title>
 </head>
 <body style="background-color: black; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <h1 style="color: white; font-size: 60px; font-family: Arial, Helvetica, sans-serif; text-shadow: 2px 2px 4px gray;">
-        J'apprends Git et GitHub
+    <h1 style="color: white; font-size: 60px; font-family: Arial, Helvetica, sans-serif; text-shadow: 2px 2px 4px gray;">My New Care
     </h1>
+    <h1 style="color: white; font-size: 60px; font-family: Arial, Helvetica, sans-serif; text-shadow: 2px 2px 4px gray;"> Elle a roulé plus de 200km  </h1>
+
 </body>
 </html>
